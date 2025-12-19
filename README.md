@@ -1,7 +1,7 @@
-## Hi there 👋
-**🤝Let's Connect**
+## 🤝 Let’s Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/Vanshika Gupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/vanshika-gupta-238013261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
-
 
 <!--
 **vanshika-gupta12345/vanshika-gupta12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
